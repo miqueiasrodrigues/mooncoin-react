@@ -40,3 +40,13 @@
 .purchase .price {
   margin-right: 20px;
 }
+
+@media (max-width: 768px) {
+  .purchase-header h3{
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+ 
+}
