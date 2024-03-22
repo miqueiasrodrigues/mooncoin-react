@@ -24,6 +24,8 @@ O objetivo do MoonCoin é fornecer uma plataforma simples e eficiente para visua
 - React Router: Para navegação entre páginas.
 - Web3.js: Para interação com a blockchain e carteiras de criptomoedas.
 - Metamask: Para integração com a carteira de criptomoedas.
+- Redux: Para gerenciamento de estado da aplicação.
+- TypeScript: Para adicionar tipagem estática ao JavaScript, proporcionando maior robustez ao código.
 
 #### Instruções de Instalação
 
@@ -33,4 +35,3 @@ O objetivo do MoonCoin é fornecer uma plataforma simples e eficiente para visua
 4. Acesse a aplicação através do navegador.
 
 Com o MoonCoin, tornamos mais fácil e acessível acompanhar e interagir com o mercado de criptomoedas. Experimente agora e embarque na jornada da inovação financeira!
-
