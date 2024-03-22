@@ -1,6 +1,6 @@
 ### Descrição do MoonCoin
 
-MoonCoin é um site desenvolvido em React que oferece uma experiência intuitiva para explorar e acompanhar o mercado de criptomoedas. Com uma interface amigável e acessível, os usuários podem visualizar uma lista de criptomoedas populares e acessar informações detalhadas sobre cada uma delas. O MoonCoin também permite interagir com uma carteira de criptomoedas, como Metamask, para realizar transações seguras e transparentes.
+MoonCoin é um site desenvolvido em React que oferece uma experiência intuitiva para explorar e acompanhar o mercado de criptomoedas. Com uma interface amigável e acessível, os usuários podem visualizar uma lista de criptomoedas populares e acessar informações detalhadas sobre cada uma delas. O MoonCoin também permite interagir com uma carteira de criptomoedas, como Metamask.
 
 ### Documentação do MoonCoin
 
@@ -10,13 +10,13 @@ O objetivo do MoonCoin é fornecer uma plataforma simples e eficiente para visua
 
 - Visualizar uma lista de criptomoedas populares.
 - Acessar informações detalhadas sobre cada criptomoeda, incluindo preço atual, variação de preço, volume de mercado, etc.
-- Conectar uma carteira de criptomoedas, como Metamask, para realizar transações seguras.
+- Conectar uma carteira de criptomoedas, como Metamask.
 
 #### Funcionalidades Principais
 
 1. **Lista de Criptomoedas:** Apresenta uma lista das 10 principais criptomoedas com base em ganhos recentes.
 2. **Detalhes da Criptomoeda:** Fornece informações detalhadas sobre cada criptomoeda selecionada, incluindo preço atual, variação de preço nas últimas 24 horas, alta/baixa de 24h, volume de mercado e gráfico de preço (se possível).
-3. **Integração com Wallet:** Permite aos usuários conectar uma carteira de criptomoedas, como Metamask, para realizar transações seguras e transparentes.
+3. **Integração com Wallet:** Permite aos usuários conectar uma carteira de criptomoedas, como Metamask.
 
 #### Tecnologias Utilizadas
 
