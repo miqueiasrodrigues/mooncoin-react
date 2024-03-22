@@ -1,0 +1,6 @@
+.message {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 20px;
+}

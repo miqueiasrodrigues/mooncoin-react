@@ -1,0 +1,23 @@
+.button {
+  width: 155px;
+  height: 40px;
+  border: 0;
+  border-radius: 10px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.text-button {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 18px;
+  color: var(--nebula-purple);
+  font-weight: 600;
+}
+
+.button:hover{
+  background-color: var(--nebula-purple);
+}

@@ -1,0 +1,42 @@
+.purchase {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.purchase a:hover {
+  color: var(--crimson);
+}
+
+.purchase-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0 50px;
+  align-items: center;
+}
+
+.purchase-list {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  width: 40%;
+  justify-content: start;
+  margin-left: 20px;
+}
+
+.purchase-card {
+  background-color: var(--space-blue);
+}
+
+.purchase-list .name {
+  padding-left: 20px;
+}
+
+
+.purchase .price {
+  margin-right: 20px;
+}

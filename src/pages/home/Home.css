@@ -1,0 +1,57 @@
+.home {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.home .home-card {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home .welcome {
+  width: 80%;
+  height: 65%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.home .moon-image {
+  height: 100%;
+  width: 50%;
+  animation: moveLeftRight 4s ease infinite alternate;
+}
+
+@keyframes moveLeftRight {
+  0% {
+    transform: translateX(-10px);
+  }
+  100% {
+    transform: translateX(10px);
+  }
+}
+
+@media (max-width: 768px) {
+  .home {
+    flex-direction: column;
+  }
+
+  .home .home-card {
+    height: 50%;
+    width: 100%;
+  }
+
+  .home .welcome {
+    height: 70%;
+  }
+}
+
+@media (max-width: 480px) {
+  .home .welcome {
+    height: 80%;
+  }
+}
