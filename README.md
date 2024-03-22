@@ -34,5 +34,3 @@ O objetivo do MoonCoin é fornecer uma plataforma simples e eficiente para visua
 
 Com o MoonCoin, tornamos mais fácil e acessível acompanhar e interagir com o mercado de criptomoedas. Experimente agora e embarque na jornada da inovação financeira!
 
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7176764533623963648" height="608" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
